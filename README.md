@@ -1,3 +1,4 @@
+
 # 🏦 Bank Customer Churn Prediction
 
 This project offers a complete machine learning pipeline to predict **bank customer churn** using structured customer data. It includes everything from EDA and feature engineering to model training, interpretability (SHAP), batch scoring, and deployment-ready outputs.
