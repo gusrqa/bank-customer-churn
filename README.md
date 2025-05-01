@@ -26,6 +26,11 @@ This project offers a complete machine learning pipeline to predict **bank custo
 
 ## 💻 How to Run This Notebook in Google Colab
 
+1. Visit [Google Colab](https://colab.research.google.com/)
+2. Click **File → Upload Notebook**
+3. Select the notebook file: `bank_customer_churn_prediction2025_CLEAN.ipynb` from this repo
+4. Once it loads in Colab, continue below 👇
+
 ### 🚨 IMPORTANT: Install Required Dependencies
 
 Before running anything, **manually install all necessary packages** by adding and running this cell at the top of the notebook:
