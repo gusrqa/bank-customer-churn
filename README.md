@@ -36,7 +36,21 @@ This project offers a complete machine learning pipeline to predict **bank custo
 
 Before running anything, **manually install all necessary packages** by adding and running this cell at the top of the notebook:
 
-```python
 # ✅ Install required packages
 !pip install --upgrade pip
 !pip install ipywidgets shap scikit-learn pandas matplotlib seaborn
+
+---
+
+## 📄 License & Usage
+
+This project is open for educational and non-commercial analysis.  
+All data belongs to the original author as hosted on Kaggle.
+
+---
+
+## 🚀 Author
+
+Developed by Gustavo Quezada
+gusr.quezada@gmail.com
+
